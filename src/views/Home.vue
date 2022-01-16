@@ -1,5 +1,4 @@
 <script setup>
-import ButtonRepo from '@/components/ButtonRepo.vue';
 import Navbar from '@/components/Navbar.vue';
 </script>
 
@@ -102,7 +101,6 @@ import Navbar from '@/components/Navbar.vue';
 export default {
   data() {
     return {
-      showChildren: true,
       items: [
         {
           id: 1,
@@ -211,11 +209,6 @@ export default {
         },
       ],
     };
-  },
-  methods: {
-    alert() {
-      this.showChildren = !this.showChildren;
-    },
-  },
+  }
 };
 </script>

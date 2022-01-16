@@ -9,8 +9,7 @@
   "dependencies": {
     "daisyui": "^1.22.0",
     "vue": "^3.2.26",
-    "vue-router": "^4.0.12",
-    "vue-table-with-tree-grid": "^0.2.4"
+    "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@headlessui/vue": "^1.4.2",
