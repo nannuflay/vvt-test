@@ -369,10 +369,10 @@ csstype@^2.6.8:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.19.tgz#feeb5aae89020bb389e1f63669a5ed490e391caa"
   integrity sha512-ZVxXaNy28/k3kJg0Fou5MiYpp88j7H9hLZp8PDC3jV0WFjfH5E9xHb56L0W59cPbKbcHXeP4qyT8PrHp8t6LcQ==
 
-daisyui@^1.22.0:
-  version "1.22.0"
-  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.22.0.tgz#1762047fc072941c3e0f2662a3f5719292f5d0d7"
-  integrity sha512-Gu5u+uGvEVJncgbf9lYVT4NbnYkPSxm2IRe7XcHYj8qBhOvXOVZpM+ifp4zj1/YvJhcViP+hjSYXlQCLd3ItfQ==
+daisyui@^1.25.3:
+  version "1.25.3"
+  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.25.3.tgz#73e1570dfd6c389e81e6901281e51c758a4f625b"
+  integrity sha512-eaEAXNyJKRGcvCOrpQxJxYf5fYtgjmMcfCcZIqvTBfykg51L1ZzIrmSIHQMWehk5GZ76KtP+a5Zqa4MHhq0z6g==
 
 defined@^1.0.0:
   version "1.0.0"
@@ -964,18 +964,6 @@ vue-router@^4.0.12:
   integrity sha512-CPXvfqe+mZLB1kBWssssTiWg4EQERyqJZes7USiqfW9B5N2x+nHlnsM1D3b5CaJ6qgCvMmYJnz+G0iWjNCvXrg==
   dependencies:
     "@vue/devtools-api" "^6.0.0-beta.18"
-
-vue-table-with-tree-grid@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/vue-table-with-tree-grid/-/vue-table-with-tree-grid-0.2.4.tgz#b60b22810ab861bdb669afb3d6f0079a4cee52a4"
-  integrity sha512-V9+wckhA8u1K6RBu7m7bjUEyRrjFFnGVaRghEjzn/fIQJc2VRxVbq8qFXIRlTTC7XUQwbiEK0Xlp4zOXP5W0Gg==
-  dependencies:
-    vue "^2.4.3"
-
-vue@^2.4.3:
-  version "2.6.14"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
-  integrity sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==
 
 vue@^3.2.26:
   version "3.2.26"
